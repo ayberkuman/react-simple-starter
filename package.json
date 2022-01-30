@@ -5,8 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\"",
-    "lint": "eslint \"src/**/*.{js,jsx , ts , tsx}\" --quiet",
-    "dev": "parcel src/index.html"
+    "lint": "eslint \"src/**/*.{ts,tsx,js,jsx}\" --quiet",
+    "dev": "parcel src/index.html",
+    "typecheck": "tsc --noEmit"
   },
   "author": "Brian Holt <btholt+citrv6@gmail.com>",
   "license": "Apache-2.0",
