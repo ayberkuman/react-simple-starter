@@ -1,5 +1,4 @@
 import { useState, useEffect, useContext, FunctionComponent } from "react";
-import { RouteComponentProps } from "react-router";
 import ThemeContext from "./ThemeContext";
 import useBreedList from "./useBreedList";
 import Results from "./Results";
