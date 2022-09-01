@@ -1,5 +1,5 @@
 {
-  "name": "React Simple Starter",
+  "name": "react-simple-starter",
   "version": "1.0.0",
   "description": "A small, light weight React app starter kit",
   "main": "src/index.js",
