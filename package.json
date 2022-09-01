@@ -1,7 +1,7 @@
 {
-  "name": "adopt-me",
+  "name": "React Simple Starter",
   "version": "1.0.0",
-  "description": "The Adopt Me pet adoption app",
+  "description": "A small, light weight React app starter kit",
   "main": "src/index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\"",
@@ -9,8 +9,8 @@
     "dev": "parcel src/index.html",
     "typecheck": "tsc --noEmit"
   },
-  "author": "Brian Holt <btholt+citrv6@gmail.com>",
-  "license": "Apache-2.0",
+  "author": "Ayberk Uman <ayberkuman1@gmail.com>",
+  "license": "i don't have license :(",
   "devDependencies": {
     "@babel/core": "7.12.16",
     "@babel/plugin-proposal-class-properties": "7.13.0",
