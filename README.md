@@ -2,6 +2,7 @@
 
 ## <h2>Getting Started</h2>
 
+<p>Most lightweight react with babel.</p>
 <p>Clone the project, install project dependencies and you're all set.</p>
 
 
